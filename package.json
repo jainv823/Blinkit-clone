@@ -1,0 +1,14 @@
+{
+  "name": "blinkit-clone",
+  "version": "1.0.0",
+  "description": "A simple blinkit clone using HTML and TailwindCSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vinay Jain",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.17"
+  }
+}
